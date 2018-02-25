@@ -1,0 +1,2 @@
+# ExpressionRecognition
+应用tensorflow编写的一个基于卷积神经网络的表情识别算法，数据集是来自从来自于CK数据库
